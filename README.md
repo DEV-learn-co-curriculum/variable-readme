@@ -1,6 +1,15 @@
 # Introduction to Variables
 
-##Objectives
+
+testing auto-deploy
+
+<img src="https://placekeanu.com/200/150" />
+
+<script>
+  window.alert('test')
+</script>
+
+## Objectives
 
 1. Define a variable.
 2. Create and reassign variables.
